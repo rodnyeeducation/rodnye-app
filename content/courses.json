@@ -1,0 +1,24 @@
+{
+ "courses": [
+  {
+   "id": "smm",
+   "title": "Как креативить системно",
+   "kind": "SMM",
+   "file": "smm.json"
+  },
+  {
+   "id": "ai",
+   "title": "AI-креатор",
+   "kind": "Нейросети",
+   "file": null,
+   "url": "https://ai-rodnyeeducation.ru"
+  },
+  {
+   "id": "mobile",
+   "title": "Мобильная съёмка",
+   "kind": "Съёмка",
+   "file": null,
+   "url": "https://rodnye-education.ru"
+  }
+ ]
+}
